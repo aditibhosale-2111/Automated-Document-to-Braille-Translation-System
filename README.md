@@ -20,27 +20,27 @@ The system converts PDF documents into print-ready Braille output that can be pr
 
 ## Technology Stack
 
-# OCR and Text Processing
+### OCR and Text Processing
 
 * Tesseract OCR
 * EasyOCR
 * TrOCR (Microsoft Transformer-based OCR)
 
-# Application Framework
+### Application Framework
 
 * Streamlit
 
-# PDF Processing
+### PDF Processing
 
 * PyMuPDF (fitz)
 * ReportLab
 
-# Image Processing
+### Image Processing
 
 * OpenCV
 * Pillow
 
-# AI Integration
+### AI Integration
 
 * OpenAI API (for OCR error correction)
 
